@@ -12,7 +12,7 @@ main:
     conference_short: PoPETS
     conference: Proceedings on Privacy Enhancing Technologies <strong>(PoPETs)</strong>, 2024
     pdf: https://arxiv.org/abs/2302.01068
-    code: https://github.com/a514514772/FedLAP-DP
+    code: https://github.com/hui-po-wang/FedLAP-DP
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-QmypFmDeF0J:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUoqkm0:AFWwaeYAAAAAZv8sim0wdgQJ7YGOSeAf9fMshJ4&scisig=AFWwaeYAAAAAZv8siquK3r_Xv5Inspgum6N53ms&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
     image: /assets/teaser/fedlap-dp.png
 
@@ -21,8 +21,8 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2022
     pdf: https://arxiv.org/abs/2110.05323
-    code: https://github.com/a514514772/ProgFed
-    page: https://a514514772.github.io/ProgFed/
+    code: https://github.com/hui-po-wang/ProgFed
+    page: https://hui-po-wang.github.io/ProgFed/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kaO0gM8AlsMJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUot9Hs:AFWwaeYAAAAAZv8r7HtJSCiuccHu1-RjLMaOi-Q&scisig=AFWwaeYAAAAAZv8r7Ea7kUoVC0VeMlp8CbGBbRo&scisf=4&ct=citation&cd=-1&hl=zh-TW
     image: /assets/teaser/progfed.png
     notes: <br/>Spotlight
@@ -32,8 +32,8 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2011.14107
-    code: https://github.com/a514514772/hijackgan
-    page: https://a514514772.github.io/hijackgan/
+    code: https://github.com/hui-po-wang/hijackgan
+    page: https://hui-po-wang.github.io/hijackgan/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2XMzgVE8DeAJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUotdXI:AFWwaeYAAAAAZv8rbXJ0xyFy4Wo0Z8pLrGWdHFc&scisig=AFWwaeYAAAAAZv8rbQp-tPxDIAj-L65lwmhSL34&scisf=4&ct=citation&cd=-1&hl=zh-TW
     image: /assets/teaser/hijackgan.png
 
@@ -60,8 +60,8 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.
     pdf: https://arxiv.org/abs/1903.12212
-    code: https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction
-    page: https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/
+    code: https://github.com/hui-po-wang/DISE-Domain-Invariant-Structure-Extraction
+    page: https://hui-po-wang.github.io/DISE-Domain-Invariant-Structure-Extraction/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RsZa7nk9AZYJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUouohU:AFWwaeYAAAAAZv8ouhXLiUALAzthLx97JOXd02k&scisig=AFWwaeYAAAAAZv8oulqKbIKla0NAC54QOS7vZ2c&scisf=4&ct=citation&cd=-1&hl=zh-TW
     image: /assets/teaser/dise.png
     
