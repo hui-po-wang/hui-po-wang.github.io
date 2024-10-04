@@ -1,0 +1,52 @@
+plugins:
+  - jekyll-target-blank
+
+# Basic Information 
+title: Hui-Po Wang
+position: Ph.D Student
+affiliation: CISPA – Helmholtz Center for Information Security
+affiliation_link: /
+affiliation_logo: /assets/img/cispa-long-logo.svg
+email: hui.wang (at) cispa.de
+
+# Search Engine Optimization (SEO)
+keywords: Hui-Po Wang, huipowang, hpwang, wanghuipo, wanghp, Wang Hui-Po
+google_analytics_id: G-R6CK2SVZWC
+canonical: 
+description: Hui-Po Wang is a Ph.D student at CISPA, specializing in efficient and privacy-preserving machine learning.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: true
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=UAnfs8UAAAAJ&hl=zh-TW
+github_link: https://github.com/a514514772
+linkedin: https://www.linkedin.com/in/hui-po-wang-7a0158137/
+twitter: https://x.com/HuiPoWang1
+
+# Images 
+avatar: /assets/img/avatar_small.png
+favicon: /assets/img/cispa-circle.svg
+favicon_dark: /assets/img/cispa-circle.svg
+
+# Footnotes
+footnote: 
+footnote_link: 
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: GgJZ0FdYo0cxR57zrINCPREBl06zimMgFbAQxNg3vhA
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

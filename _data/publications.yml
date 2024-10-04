@@ -1,0 +1,75 @@
+main:
+
+  - title: "Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models"
+    authors: <strong>Hui-Po Wang</strong>, Mario Fritz
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2024
+    pdf: https://arxiv.org/pdf/2409.17836
+    image: /assets/teaser/lm-gc.png
+
+  - title: "FedLAP-DP: Federated learning by sharing differentially private loss approximations"
+    authors: <strong>Hui-Po Wang</strong>, D Chen, R Kerkouche, M Fritz
+    conference_short: PoPETS
+    conference: Proceedings on Privacy Enhancing Technologies <strong>(PoPETs)</strong>, 2024
+    pdf: https://arxiv.org/abs/2302.01068
+    code: https://github.com/a514514772/FedLAP-DP
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-QmypFmDeF0J:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUoqkm0:AFWwaeYAAAAAZv8sim0wdgQJ7YGOSeAf9fMshJ4&scisig=AFWwaeYAAAAAZv8siquK3r_Xv5Inspgum6N53ms&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
+    image: /assets/teaser/fedlap-dp.png
+
+  - title: "ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training"
+    authors: <strong>Hui-Po Wang</strong>, Sebastian U. Stich, Yang He, Mario Fritz
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2022
+    pdf: https://arxiv.org/abs/2110.05323
+    code: https://github.com/a514514772/ProgFed
+    page: https://a514514772.github.io/ProgFed/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kaO0gM8AlsMJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUot9Hs:AFWwaeYAAAAAZv8r7HtJSCiuccHu1-RjLMaOi-Q&scisig=AFWwaeYAAAAAZv8r7Ea7kUoVC0VeMlp8CbGBbRo&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/progfed.png
+    notes: <br/>Spotlight
+
+  - title: "Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs"
+    authors: <strong>Hui-Po Wang</strong>, Ning Yu, Mario Fritz
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
+    pdf: https://arxiv.org/abs/2011.14107
+    code: https://github.com/a514514772/hijackgan
+    page: https://a514514772.github.io/hijackgan/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2XMzgVE8DeAJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUotdXI:AFWwaeYAAAAAZv8rbXJ0xyFy4Wo0Z8pLrGWdHFc&scisig=AFWwaeYAAAAAZv8rbQp-tPxDIAj-L65lwmhSL34&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/hijackgan.png
+
+  - title: "Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling"
+    authors: Yancheng Huang, Yi-Hsin Chen, Cheng-You Lu, <strong>Hui-Po Wang</strong>, Wen-Hsiao Peng, Ching-Chun Huang
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
+    pdf: https://arxiv.org/abs/2103.14858
+    code: https://github.com/ding3820/MIMO-VRN
+    page: https://ding3820.github.io/MIMO-VRN/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lLhh0I-sgUMJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUotAKg:AFWwaeYAAAAAZv8rGKgyCAHbAR6_IK8qisYzDiw&scisig=AFWwaeYAAAAAZv8rGJF9-Epv58e8TRvW42sDVsE&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/video_rescaling.png
+
+  - title: "InfoScrub: Towards Attribute Privacy by Targeted Obfuscation"
+    authors: <strong>Hui-Po Wang</strong>, Tribhuvanesh Orekondy, and Mario Fritz
+    conference_short: CVPRw
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2019
+    pdf: https://arxiv.org/abs/2005.10329
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:seJiFUJ5ZocJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUossBw:AFWwaeYAAAAAZv8qqByrDXqACBlkeDFVSVPB5t8&scisig=AFWwaeYAAAAAZv8qqHyaMo-5NIhoz9nXT2Q7oYI&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/infoscrub.png
+  
+  - title: "All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation"
+    authors: Wei-Lun Chang*, <strong>Hui-Po Wang*</strong>, Wen-Hsiao Peng, and Wei-Chen Chiu. (*euqal contribution)
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.
+    pdf: https://arxiv.org/abs/1903.12212
+    code: https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction
+    page: https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RsZa7nk9AZYJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUouohU:AFWwaeYAAAAAZv8ouhXLiUALAzthLx97JOXd02k&scisig=AFWwaeYAAAAAZv8oulqKbIKla0NAC54QOS7vZ2c&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/dise.png
+    
+  - title: Learning Priors for Adversarial Autoencoders
+    authors: <strong>Hui-Po Wang</strong>, Wen-Hsiao Peng, and Wei-Jan Ko
+    conference_short: APSIPA ASC
+    conference: APSIPA Annual Summit and Conference <strong>(ASC)</strong>, 2018.
+    pdf: https://arxiv.org/abs/1909.04443
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HhLPjvM-2-UJ:scholar.google.com/&output=citation&scisdr=ClHvMji1EKy1wVLT3mk:AFWwaeYAAAAAZv3VxmkEpPsX3AAn6P_1lF__j6o&scisig=AFWwaeYAAAAAZv3VxmZkGBnMO68HvlLOq3TcrjQ&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    image: /assets/teaser/learning_priors.png
+    notes: <br/>Best Paper Award Runner-up; Invited to ASIPA T-SIP, 2020
