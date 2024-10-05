@@ -30,8 +30,8 @@ twitter: https://x.com/HuiPoWang1
 
 # Images 
 avatar: /assets/img/avatar_small.png
-favicon: /assets/img/cispa-circle.svg
-favicon_dark: /assets/img/cispa-circle.svg
+favicon: /assets/img/favicon.ico
+favicon_dark: /assets/img/favicon.ico
 
 # Footnotes
 footnote: 
