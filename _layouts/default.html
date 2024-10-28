@@ -13,7 +13,7 @@
     <meta property="og:url" content="{{ site.canonical }}{{ page.permalink }}">
     <meta property="og:site_name" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:locale" content="default">
+    <meta property="og:locale" content="en_US">
     <meta property="og:image" content="{{ site.avatar }}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
@@ -30,6 +30,22 @@
     <link rel="stylesheet" href="../assets/css/nav.css">
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
 
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ site.title }}",
+        "url": "{{ site.canonical }}",
+        "jobTitle": "{{ site.position }}",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "{{ site.affiliation }}"
+        },
+        "description": "{{ site.description }}",
+        "image": "{{ site.avatar }}"
+      }
+    </script>
+    
     <script src="../assets/js/github-stars.js"></script>
     <script type="text/javascript" src="../assets/js/jquery.js"></script>
     <script src="../assets/js/favicon-switcher.js" type="application/javascript"></script>

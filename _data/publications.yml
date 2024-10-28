@@ -5,6 +5,7 @@ main:
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2024
     pdf: https://arxiv.org/pdf/2409.17836
+    code: https://github.com/hui-po-wang/LM-GC
     image: /assets/teaser/lm-gc.png
 
   - title: "FedLAP-DP: Federated learning by sharing differentially private loss approximations"
@@ -13,7 +14,7 @@ main:
     conference: Proceedings on Privacy Enhancing Technologies <strong>(PoPETs)</strong>, 2024
     pdf: https://arxiv.org/abs/2302.01068
     code: https://github.com/hui-po-wang/FedLAP-DP
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-QmypFmDeF0J:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUoqkm0:AFWwaeYAAAAAZv8sim0wdgQJ7YGOSeAf9fMshJ4&scisig=AFWwaeYAAAAAZv8siquK3r_Xv5Inspgum6N53ms&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
+    bibtex: https://dblp.org/rec/journals/popets/WangCKF24.html?view=bibtex
     image: /assets/teaser/fedlap-dp.png
 
   - title: "ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training"
@@ -23,7 +24,7 @@ main:
     pdf: https://arxiv.org/abs/2110.05323
     code: https://github.com/hui-po-wang/ProgFed
     page: https://hui-po-wang.github.io/ProgFed/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kaO0gM8AlsMJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUot9Hs:AFWwaeYAAAAAZv8r7HtJSCiuccHu1-RjLMaOi-Q&scisig=AFWwaeYAAAAAZv8r7Ea7kUoVC0VeMlp8CbGBbRo&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/icml/WangS0F22.html?view=bibtex
     image: /assets/teaser/progfed.png
     notes: <br/>Spotlight
 
@@ -34,7 +35,7 @@ main:
     pdf: https://arxiv.org/abs/2011.14107
     code: https://github.com/hui-po-wang/hijackgan
     page: https://hui-po-wang.github.io/hijackgan/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2XMzgVE8DeAJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUotdXI:AFWwaeYAAAAAZv8rbXJ0xyFy4Wo0Z8pLrGWdHFc&scisig=AFWwaeYAAAAAZv8rbQp-tPxDIAj-L65lwmhSL34&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/cvpr/WangYF21.html?view=bibtex
     image: /assets/teaser/hijackgan.png
 
   - title: "Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling"
@@ -44,7 +45,7 @@ main:
     pdf: https://arxiv.org/abs/2103.14858
     code: https://github.com/ding3820/MIMO-VRN
     page: https://ding3820.github.io/MIMO-VRN/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lLhh0I-sgUMJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUotAKg:AFWwaeYAAAAAZv8rGKgyCAHbAR6_IK8qisYzDiw&scisig=AFWwaeYAAAAAZv8rGJF9-Epv58e8TRvW42sDVsE&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/cvpr/HuangCLWPH21.html?view=bibtex
     image: /assets/teaser/video_rescaling.png
 
   - title: "InfoScrub: Towards Attribute Privacy by Targeted Obfuscation"
@@ -52,7 +53,7 @@ main:
     conference_short: CVPRw
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2019
     pdf: https://arxiv.org/abs/2005.10329
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:seJiFUJ5ZocJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUossBw:AFWwaeYAAAAAZv8qqByrDXqACBlkeDFVSVPB5t8&scisig=AFWwaeYAAAAAZv8qqHyaMo-5NIhoz9nXT2Q7oYI&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/cvpr/WangOF21.html?view=bibtex
     image: /assets/teaser/infoscrub.png
   
   - title: "All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation"
@@ -62,7 +63,7 @@ main:
     pdf: https://arxiv.org/abs/1903.12212
     code: https://github.com/hui-po-wang/DISE-Domain-Invariant-Structure-Extraction
     page: https://hui-po-wang.github.io/DISE-Domain-Invariant-Structure-Extraction/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RsZa7nk9AZYJ:scholar.google.com/&output=citation&scisdr=ClHvMji1ENvWoUouohU:AFWwaeYAAAAAZv8ouhXLiUALAzthLx97JOXd02k&scisig=AFWwaeYAAAAAZv8oulqKbIKla0NAC54QOS7vZ2c&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/cvpr/ChangWPC19.html?view=bibtex
     image: /assets/teaser/dise.png
     
   - title: Learning Priors for Adversarial Autoencoders
@@ -70,6 +71,6 @@ main:
     conference_short: APSIPA ASC
     conference: APSIPA Annual Summit and Conference <strong>(ASC)</strong>, 2018.
     pdf: https://arxiv.org/abs/1909.04443
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HhLPjvM-2-UJ:scholar.google.com/&output=citation&scisdr=ClHvMji1EKy1wVLT3mk:AFWwaeYAAAAAZv3VxmkEpPsX3AAn6P_1lF__j6o&scisig=AFWwaeYAAAAAZv3VxmZkGBnMO68HvlLOq3TcrjQ&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: https://dblp.org/rec/conf/apsipa/WangKP18.html?view=bibtex
     image: /assets/teaser/learning_priors.png
     notes: <br/>Best Paper Award Runner-up; Invited to ASIPA T-SIP, 2020
