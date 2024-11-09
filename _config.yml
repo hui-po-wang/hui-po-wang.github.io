@@ -1,5 +1,6 @@
 plugins:
   - jekyll-target-blank
+  - jekyll-sitemap
 
 # Basic Information 
 title: Hui-Po Wang
@@ -8,6 +9,9 @@ affiliation: CISPA – Helmholtz Center for Information Security
 affiliation_link: /
 affiliation_logo: /assets/img/cispa-long-logo.svg
 email: huipowang24 (at) gmail.com
+
+# For generate sitemap
+url: https://hui-po-wang.github.io
 
 # Search Engine Optimization (SEO)
 keywords: Hui-Po Wang, huipowang, hpwang, wanghuipo, wanghp, Wang Hui-Po
