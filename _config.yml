@@ -1,6 +1,7 @@
 plugins:
   - jekyll-target-blank
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # Basic Information 
 title: Hui-Po Wang
