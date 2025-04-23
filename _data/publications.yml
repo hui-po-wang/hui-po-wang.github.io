@@ -1,5 +1,13 @@
 main:
 
+  - title: "DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators"
+    authors: Tejumade Afonja, <strong>Hui-Po Wang</strong>, Raouf Kerkouche, Mario Fritz
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research (TMLR), 2025
+    pdf: https://arxiv.org/pdf/2412.02467?
+    code: https://github.com/tejuafonja/DP-2Stage
+    image: /assets/teaser/dp-2stage.png
+
   - title: "Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models"
     authors: <strong>Hui-Po Wang</strong>, Mario Fritz
     conference_short: NeurIPS
