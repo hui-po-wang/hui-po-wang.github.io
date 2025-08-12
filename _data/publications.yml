@@ -1,5 +1,21 @@
 main:
 
+  - title: "Stealix: Model Stealing via Prompt Evolution"
+    authors: Zhixiong Zhuang, <strong>Hui-Po Wang</strong>, Maria-Irina Nicolae, Fritz Mario
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2506.05867
+    code: https://zhixiongzh.github.io/stealix/
+    image: /assets/teaser/stealix.png
+
+  - title: "Automated Detection of Abnormalities in Zebrafish Development"
+    authors: Sarath Sivaprasad, <strong>Hui-Po Wang</strong>, Anna-lisa Jäckel, Jonas Baumann, Carole Baumann, Jennifer Herrmann, Mario Fritz
+    conference_short: MICCAI
+    conference: Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025
+    pdf: 
+    code: 
+    image: /assets/teaser/miccai-2025.png
+
   - title: "DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators"
     authors: Tejumade Afonja, <strong>Hui-Po Wang</strong>, Raouf Kerkouche, Mario Fritz
     conference_short: TMLR

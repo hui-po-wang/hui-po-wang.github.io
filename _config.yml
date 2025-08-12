@@ -5,8 +5,8 @@ plugins:
 
 # Basic Information 
 title: Hui-Po Wang
-position: Ph.D Student
-affiliation: CISPA – Helmholtz Center for Information Security
+position: Research Scientist
+affiliation: Meta
 affiliation_link: /
 affiliation_logo: /assets/img/cispa-long-logo.svg
 email: huipowang24(at)gmail(dot)com
@@ -18,7 +18,7 @@ url: https://hui-po-wang.github.io
 keywords: Hui-Po Wang, huipowang, hpwang, wanghuipo, wanghp, Wang Hui-Po
 google_analytics_id: G-R6CK2SVZWC
 canonical: https://hui-po-wang.github.io
-description: Hui-Po Wang is a Ph.D student at CISPA, specializing in efficient and privacy-preserving machine learning.
+description: Hui-Po Wang is a Research Scientist at Meta, specializing in efficient and privacy-preserving machine learning.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
